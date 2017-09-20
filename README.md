@@ -11,3 +11,5 @@ Write a program to get the average of all 6 numbers. (You can use integers for t
 3) Using the above values, have your program print out the highest number in the array.
 
 4) Using the same array above, have your program print out only the odd numbers. (Hint use modulus)
+
+<img src="chapter8Rubric.PNG">
